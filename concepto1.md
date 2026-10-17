@@ -91,7 +91,7 @@ Las principales relaciones del modelo son las siguientes:
 
 En esta sección se incorporará el diagrama relacional de la base de datos, donde se visualizarán las tablas, sus campos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre ellas.
 
-**[INSERTAR AQUÍ LA IMAGEN DEL DIAGRAMA RELACIONAL]**
+![Diagrama relacional de la base de datos](Diagrama_relacional.png)
 
 ---
 
