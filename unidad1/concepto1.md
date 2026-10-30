@@ -26,7 +26,7 @@ Mediante el diseño de una base de datos relacional, se busca facilitar el regis
 
 **Entrevistador:** ¿Se solicita una garantía para alquilar un cuarto?
 
-**Encargado:** La garantía es opcional. Cuando se solicita, se registra el monto, la aceptación, la fecha de pago y la fecha de devolución.
+**Encargado:** Cuando se solicita, se registra el monto, la aceptación, la fecha de pago y la fecha de devolución.
 
 **Entrevistador:** ¿Existen servicios adicionales?
 
